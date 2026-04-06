@@ -267,3 +267,4 @@ APIs can be tested using:
 
 - Postman
 
+Deployed link of the project : https://finance-dashboard-backend-g6xa.onrender.com
